@@ -12,7 +12,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/labibbd2005-hue)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)](https://labibbd2005-hue.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)](https://github.com/labibbd2005-hue/labibbd2005-hue/tree/main)
 
 </div>
 
