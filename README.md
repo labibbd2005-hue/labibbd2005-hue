@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:082F49,70:075985,100:06B6D4&text=LABIB&fontColor=E0F7FF&fontSize=65&fontAlignY=38&desc=ELECTRICAL%20%26%20ELECTRONIC%20ENGINEERING&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06B6D4&height=220&section=header&text=LABIB&fontSize=65&fontColor=E0F7FF&fontAlignY=38&desc=ELECTRICAL%20%26%20ELECTRONIC%20ENGINEERING&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <a href="https://github.com/labibbd2005-hue">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=HELLO%2C+WORLD!+I'M+LABIB.;ELECTRICAL+%26+ELECTRONIC+ENGINEERING+STUDENT.;EXPLORING+ELECTRONICS+%26+EMBEDDED+SYSTEMS.;LEARNING.+BUILDING.+ENGINEERING." />
