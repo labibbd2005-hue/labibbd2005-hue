@@ -1,195 +1,88 @@
+# ⚡ EEE Engineering Calculator
 
-<!-- ================= PROFILE HEADER ================= -->
+**A lightweight engineering toolkit for Electrical & Electronic Engineering calculations.**
 
-<div align="center">
+A web-based calculator designed to simplify common electrical and electronic engineering calculations through a clean, minimalistic, and user-friendly interface.
 
-# Md Fokrul Alam Labib
-
-### BSc in Electrical & Electronic Engineering | CIU
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Electrical+%26+Electronic+Engineering+Student;Exploring+Robotics+%26+Embedded+Systems;Learning+MATLAB+%26+Simulink;Building+My+Engineering+Skills" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/labibbd2005-hue)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)](https://labibbd2005-hue.github.io/Portofolio-Website/)
-
-</div>
+🔗 **Live Project:** [EEE Engineering Calculator](https://labibbd2005-hue.github.io/eee-engineering-calculator/)
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+## Overview
 
-## ⚡ About Me
+The EEE Engineering Calculator provides quick solutions to fundamental electrical engineering problems. It is designed as a practical tool for engineering students, learners, and anyone working with basic electrical and electronic concepts.
 
-I am an undergraduate **Electrical & Electronic Engineering (EEE)** student at **Chittagong Independent University (CIU)**, Bangladesh.
+## Features
 
-I am currently developing my technical foundation and exploring the intersection of electronics, programming and intelligent engineering systems.
+### Electrical Calculations
+- **Ohm's Law** – Voltage, Current, and Resistance
+- **Electrical Power** – Power calculations
+- **Series Resistors** – Equivalent resistance
+- **Parallel Resistors** – Equivalent resistance
 
-- 🎓 BSc in Electrical & Electronic Engineering
-- ⚡ Interested in Electronics, Circuits and Electrical Systems
-- 🤖 Exploring Robotics, Embedded Systems and Automation
-- 📊 Learning MATLAB and Simulink
-- 💻 Developing programming skills in C and Python
-- 🌱 Focused on continuous learning and practical engineering projects
+### AC Circuit Analysis
+- **Capacitor** – Capacitive calculations
+- **Inductor** – Inductive calculations
+- **AC Impedance** – Resistance and Reactance
+- **Power Factor** – Real and Apparent Power
 
----
-
-<!-- ================= TECHNICAL INTERESTS ================= -->
-
-## 🔬 Areas of Interest
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Electronics-00D9FF?style=for-the-badge&logo=arduino&logoColor=black"/>
-<img src="https://img.shields.io/badge/Robotics-00D9FF?style=for-the-badge&logo=robotframework&logoColor=black"/>
-<img src="https://img.shields.io/badge/Embedded_Systems-00D9FF?style=for-the-badge&logo=raspberrypi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Automation-00D9FF?style=for-the-badge&logo=homeassistant&logoColor=black"/>
-<img src="https://img.shields.io/badge/Circuit_Simulation-00D9FF?style=for-the-badge&logo=ltspice&logoColor=black"/>
-
-</div>
+### Additional Engineering Tools
+- **Ideal Transformer** – Voltage and Turns Ratio
+- **Frequency & Wavelength** – Wave calculations
+- **Decibel Gain** – Gain calculations in dB
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## Technology Stack
 
-## 🛠️ Technologies & Tools
+| Technology | Purpose |
+|---|---|
+| HTML5 | Structure |
+| CSS3 | Styling and layout |
+| JavaScript | Calculation logic and interactivity |
+| GitHub Pages | Deployment and hosting |
 
-### Programming Languages
+## Getting Started
 
-<div align="center">
+To run the project locally:
 
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js&theme=dark" />
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/labibbd2005-hue/eee-engineering-calculator.git
+   ```
 
-</div>
+2. Open the project folder.
 
-### Engineering & Simulation
+3. Launch `index.html` in your web browser.
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
-</div>
-
-### Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-</div>
+No additional installation or dependencies required.
 
 ---
 
-<!-- ================= LEARNING PROGRESS ================= -->
+## Project Purpose
 
-## 📚 Currently Learning
+This project is part of my ongoing journey in Electrical and Electronic Engineering, combining engineering fundamentals with practical programming skills.
 
-<div align="center">
+The goal is to build useful engineering tools while strengthening my understanding of electrical circuits, mathematical relationships, and web development.
 
-| Technology | Status |
-|:---|:---|
-| MATLAB Onramp | ✅ Completed |
-| Simulink Onramp | 📖 Learning |
-| C Programming | 📖 Developing |
-| Python | 🌱 Developing |
-| Electronics & Circuit Analysis | 📖 Studying |
-| Git & GitHub | 🌱 Improving |
+## Future Improvements
 
-</div>
+- Expand the collection of engineering formulas.
+- Add more circuit analysis tools.
+- Improve calculation accuracy and validation.
+- Introduce additional electrical and electronic engineering utilities.
 
 ---
 
-<!-- ================= GITHUB STATISTICS ================= -->
+## Developer
 
-## 📊 GitHub Statistics
+**Md Fokrul Alam Labib**
 
-<div align="center">
+BSc in Electrical & Electronic Engineering (EEE)  
+Chittagong Independent University (CIU)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=labibbd2005-hue&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labibbd2005-hue&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+[GitHub](https://github.com/labibbd2005-hue)
 
 ---
 
-<!-- ================= STREAK ================= -->
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=labibbd2005-hue&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=labibbd2005-hue&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/labibbd2005-hue/labibbd2005-hue/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
-
-</div>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/labibbd2005-hue">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=labibbd2005-hue&repo=portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-*More engineering and programming projects will be added as I develop my skills.*
-
----
-
-<!-- ================= CONNECT ================= -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/labibbd2005-hue">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Engineering. Learning. Building.
-
-<img src="https://komarev.com/ghpvc/?username=labibbd2005-hue&style=flat-square&color=00d9ff&label=PROFILE+VIEWS"/>
-
-</div>
-
+*Built with HTML, CSS & JavaScript | 2026*
