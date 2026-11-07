@@ -105,4 +105,158 @@ My interests include understanding circuit behaviour, engineering simulations, e
 
 <img src="https://img.icons8.com/fluency/96/electronics.png" width="55"/>
 
-**SIMULATION
+**SIMULATION**
+
+<sub>MATLAB & Simulink</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+# `03` / TECHNICAL ARSENAL
+
+<div align="center">
+
+### Engineering & Simulation
+
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js&theme=dark" />
+
+### Development Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+
+</div>
+
+**Current learning status**
+
+| Technology | Focus |
+|:---|:---|
+| MATLAB | Onramp completed |
+| Simulink | Currently learning |
+| C | Programming fundamentals |
+| Python | Exploring engineering applications |
+| HTML / CSS / JavaScript | Building web-based engineering tools |
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+# `04` / ENGINEERING PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/labibbd2005-hue/eee-engineering-calculator">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=labibbd2005-hue&repo=eee-engineering-calculator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+</div>
+
+### ⚡ EEE Engineering Calculator
+
+A web-based engineering toolkit for electrical and electronic engineering calculations.
+
+- Electrical formulas and calculations
+- Circuit-related utilities
+- Engineering-focused interface
+- Built using HTML, CSS and JavaScript
+
+**[OPEN LIVE PROJECT →](https://labibbd2005-hue.github.io/eee-engineering-calculator/)**
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+# `05` / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=labibbd2005-hue&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labibbd2005-hue&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=labibbd2005-hue&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+# `06` / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=labibbd2005-hue&bg_color=0D1117&color=00D9FF&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=ENGINEERING%20DEVELOPMENT%20ACTIVITY" />
+
+</div>
+
+---
+
+<!-- ================= SNAKE ANIMATION ================= -->
+
+# `07` / CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/labibbd2005-hue/labibbd2005-hue/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+<!-- ================= CURRENT OBJECTIVES ================= -->
+
+# `08` / CURRENT DEVELOPMENT OBJECTIVES
+
+```text
+[01]  Strengthening Electrical Engineering Fundamentals
+[02]  Developing C Programming Skills
+[03]  Exploring MATLAB & Simulink
+[04]  Understanding Circuit Analysis & Simulation
+[05]  Exploring Robotics & Embedded Systems
+[06]  Building Practical Engineering Projects
+```
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+# `09` / ESTABLISH CONNECTION
+
+<div align="center">
+
+<a href="https://github.com/labibbd2005-hue">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**INTERESTED IN ENGINEERING, ELECTRONICS & TECHNOLOGY?**
+
+Let's connect, learn, and build.
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=LEARN+%2F+EXPERIMENT+%2F+BUILD;ENGINEERING+IS+A+CONTINUOUS+PROCESS." />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=110&section=footer"/>
+
