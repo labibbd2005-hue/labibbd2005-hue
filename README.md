@@ -1,140 +1,108 @@
-# ⚡ MD FOKRUL ALAM LABIB
+<!-- ===================================================== -->
+<!--                 ENGINEERING HEADER                   -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-### ELECTRICAL & ELECTRONIC ENGINEERING STUDENT
-
-**Exploring the intersection of Electronics, Programming & Intelligent Systems.**
-
-<a href="https://labibbd2005-hue.github.io/eee-engineering-calculator/">
-  <img src="https://img.shields.io/badge/EEE%20Engineering%20Calculator-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:082F49,70:075985,100:06B6D4&text=LABIB&fontColor=E0F7FF&fontSize=65&fontAlignY=38&desc=ELECTRICAL%20%26%20ELECTRONIC%20ENGINEERING&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <a href="https://github.com/labibbd2005-hue">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=HELLO%2C+WORLD!+I'M+LABIB.;ELECTRICAL+%26+ELECTRONIC+ENGINEERING+STUDENT.;EXPLORING+ELECTRONICS+%26+EMBEDDED+SYSTEMS.;LEARNING.+BUILDING.+ENGINEERING." />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Electrical+%26+Electronic+Engineering;Exploring+Embedded+Systems;Learning+MATLAB+%26+Simulink;Building+Engineering+Projects;Turning+Theory+Into+Practical+Solutions" />
+<br/>
+
+<a href="https://github.com/labibbd2005-hue">
+<img src="https://komarev.com/ghpvc/?username=labibbd2005-hue&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" />
+</a>
+
+<a href="https://github.com/labibbd2005-hue?tab=followers">
+<img src="https://img.shields.io/github/followers/labibbd2005-hue?style=for-the-badge&color=0891B2&label=FOLLOWERS" />
+</a>
+
+<a href="https://github.com/labibbd2005-hue?tab=repositories">
+<img src="https://img.shields.io/badge/DOMAIN-ELECTRICAL%20ENGINEERING-0891B2?style=for-the-badge" />
+</a>
 
 </div>
 
 ---
 
-## 01 / ENGINEERING PROFILE
+<!-- ================= ABOUT ================= -->
 
-```yaml
-name: Md Fokrul Alam Labib
-university: Chittagong Independent University
-department: Electrical & Electronic Engineering
-degree: BSc in EEE
-status: Undergraduate Student
+# `01` / ENGINEER PROFILE
 
-interests:
-  - Electronics & Circuit Design
-  - Robotics & Automation
-  - Embedded Systems
-  - Electrical Engineering
-  - Engineering Simulation
+<table>
+<tr>
+<td width="58%" valign="top">
 
-currently_exploring:
-  - MATLAB & Simulink
-  - C Programming
-  - Python
-  - Engineering Applications
-```
+### Md Fokrul Alam Labib
 
-I am an undergraduate EEE student interested in understanding how electrical systems, electronics, and programming work together.
+**BSc Undergraduate | Electrical & Electronic Engineering**
 
-My focus is on developing practical engineering skills through experimentation, technical projects, and continuous learning.
+Chittagong Independent University (CIU)  
+School of Science & Engineering
 
-## 02 / TECHNICAL ARSENAL
+I am an EEE undergraduate exploring the intersection of electrical systems, electronics, programming, and intelligent technologies.
 
-<div align="center">
+My interests include understanding circuit behaviour, engineering simulations, embedded systems, and the practical applications of programming in electrical engineering.
 
-### Engineering & Simulation
+**My philosophy:**
 
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+> Understand the fundamentals. Build practical solutions. Keep experimenting.
 
-### Programming & Development
+</td>
+<td width="42%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=arduino,matlab,python,c&theme=dark" />
 
-### Development Tools
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="220" alt="Electronic circuit animation"/>
 
-</div>
-
-## 03 / FEATURED ENGINEERING PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/labibbd2005-hue/eee-engineering-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=labibbd2005-hue&repo=eee-engineering-calculator&theme=transparent&hide_border=true&title_color=00D9FF" />
-</a>
-
-</div>
-
-**EEE Engineering Calculator**
-
-A web-based engineering toolkit designed to simplify electrical and electronic engineering calculations.
-
-- Electrical calculations
-- Circuit-related formulas
-- Engineering utilities
-- HTML, CSS & JavaScript
-
-🔗 [Explore Live Project](https://labibbd2005-hue.github.io/eee-engineering-calculator/)
-
-## 04 / GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=labibbd2005-hue&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labibbd2005-hue&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF" />
-
-<img src="https://streak-stats.demolab.com?user=labibbd2005-hue&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-</div>
-
-## 05 / CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=labibbd2005-hue&theme=react-dark&bg_color=00000000&hide_border=true&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" />
-
-</div>
-
-## 06 / CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/labibbd2005-hue/labibbd2005-hue/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
-
-</div>
-
-## 07 / CURRENT FOCUS
-
-- Strengthening electrical engineering fundamentals.
-- Developing programming skills for engineering applications.
-- Exploring MATLAB and Simulink.
-- Learning circuit analysis and simulation.
-- Building practical projects and documenting progress.
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ================= ENGINEERING DOMAINS ================= -->
+
+# `02` / ENGINEERING DOMAINS
+
 <div align="center">
 
-### CONNECT WITH ME
+<table>
+<tr>
+<td align="center" width="25%">
 
-<a href="https://github.com/labibbd2005-hue">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+<img src="https://img.icons8.com/fluency/96/electrical.png" width="55"/>
 
-**LEARN. BUILD. EXPERIMENT. ENGINEER.**
+**ELECTRONICS**
 
-<sub>Electrical Engineering × Electronics × Technology</sub>
+<sub>Circuit fundamentals</sub>
 
-</div>
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/robot-2.png" width="55"/>
+
+**ROBOTICS**
+
+<sub>Automation & control</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/motherboard.png" width="55"/>
+
+**EMBEDDED**
+
+<sub>Hardware & programming</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/electronics.png" width="55"/>
+
+**SIMULATION
