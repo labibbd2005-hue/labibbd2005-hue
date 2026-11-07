@@ -99,7 +99,15 @@ A web-based engineering toolkit designed to simplify electrical and electronic e
 
 </div>
 
-## 05 / CONTRIBUTION SNAKE
+## 05 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=labibbd2005-hue&theme=react-dark&bg_color=00000000&hide_border=true&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" />
+
+</div>
+
+## 06 / CONTRIBUTION SNAKE
 
 <div align="center">
 
